@@ -29,3 +29,23 @@ Hours Spent:
 
 Status:
 EDA in progress
+---------------------------------------------------------------------------------------------
+Date: 05-06-2026
+
+Tasks Completed:
+
+* Loaded Telco Customer Churn dataset
+* Performed Exploratory Data Analysis (EDA)
+* Analyzed dataset shape, data types, and missing values
+* Generated churn distribution visualization
+* Generated churn by gender visualization
+* Generated churn by contract type visualization
+* Generated customer tenure distribution visualization
+* Derived business insights from EDA findings
+* Updated GitHub repository with notebook progress
+
+Hours Spent:
+2.5
+
+Status:
+EDA completed successfully. Ready for data preprocessing and feature engineering.
