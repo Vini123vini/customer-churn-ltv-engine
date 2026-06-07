@@ -49,3 +49,20 @@ Hours Spent:
 
 Status:
 EDA completed successfully. Ready for data preprocessing and feature engineering.
+---------------------------------------------------------------------------------------------
+Date: 07-06-2026
+
+Tasks Completed:
+
+* Created preprocessing notebook
+* Loaded churn dataset
+* Analyzed feature data types
+* Identified categorical features
+* Removed unnecessary columns
+* Encoded target variable
+
+Hours Spent:
+2
+
+Status:
+Preprocessing in progress
