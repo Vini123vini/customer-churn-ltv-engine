@@ -66,3 +66,22 @@ Hours Spent:
 
 Status:
 Preprocessing in progress
+---------------------------------------------------------------------------------------------Date: 08-06-2026
+
+Tasks Completed:
+
+* Created preprocessing notebook
+* Loaded customer churn dataset
+* Analyzed feature data types
+* Identified categorical and numerical features
+* Converted Total Charges to numeric format
+* Handled missing values
+* Performed feature encoding using get_dummies()
+* Prepared feature and target variables
+* Completed train-test split
+
+Hours Spent:
+2
+
+Status:
+Data preprocessing completed. Ready for model training.
