@@ -102,3 +102,6 @@ Hours Spent:
 
 Status:
 First machine learning model completed successfully.
+- Identified and removed target leakage features
+- Retrained Random Forest model
+- Achieved final accuracy of 79.7%
