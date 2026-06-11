@@ -121,3 +121,22 @@ Hours Spent:
 
 Status:
 Feature engineering completed. Ready for Logistic Regression and XGBoost modeling.
+---------------------------------------------------------------------------------------------
+Date: 11-06-2026
+
+Tasks Completed:
+
+* Created Logistic Regression model
+* Trained model using customer churn dataset
+* Generated predictions on test data
+* Evaluated model performance
+* Achieved 79.99% accuracy
+* Generated classification report and confusion matrix
+* Compared Logistic Regression with Random Forest
+* Saved Logistic Regression model
+
+Hours Spent:
+2
+
+Status:
+Logistic Regression model completed successfully. Ready for XGBoost implementation.
