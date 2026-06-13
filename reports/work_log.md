@@ -140,3 +140,30 @@ Hours Spent:
 
 Status:
 Logistic Regression model completed successfully. Ready for XGBoost implementation.
+---------------------------------------------------------------------------------------------
+Date: 12-06-2026
+
+Tasks Completed:
+
+* Installed XGBoost
+* Created XGBoost notebook
+* Loaded and preprocessed customer churn dataset
+* Trained XGBoost classifier
+* Generated predictions
+* Evaluated model performance
+* Compared XGBoost with Logistic Regression and Random Forest
+
+Results:
+
+* Logistic Regression Accuracy: 79.99%
+* Random Forest Accuracy: 79.70%
+* XGBoost Accuracy: 78.71%
+
+Best Model:
+Logistic Regression
+
+Hours Spent:
+2
+
+Status:
+Model comparison completed successfully.
