@@ -167,7 +167,8 @@ Hours Spent:
 
 Status:
 Model comparison completed successfully.
----------------------------------------------------------------------------------------------Date: 16-06-2026
+---------------------------------------------------------------------------------------------
+Date: 16-06-2026
 
 Tasks Completed:
 - Installed SHAP environment
@@ -190,3 +191,28 @@ Top Features:
 
 Status:
 Week 2 completed successfully.
+---------------------------------------------------------------------------------------------------------------------
+Date: 18-06-2026
+
+Tasks Completed:
+- Started Week 3: Customer Lifetime Value Prediction
+- Prepared dataset for regression analysis
+- Trained Linear Regression model
+- Trained Random Forest Regressor model
+- Evaluated models using MAE, RMSE, and R² Score
+- Compared model performance
+- Selected Random Forest as the best regression model
+
+Results:
+Linear Regression:
+MAE: 899.32
+RMSE: 1063.79
+R²: 0.167
+
+Random Forest Regressor:
+MAE: 893.16
+RMSE: 1055.10
+R²: 0.181
+
+Status:
+Week 3 LTV Prediction completed.
