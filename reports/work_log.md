@@ -167,3 +167,26 @@ Hours Spent:
 
 Status:
 Model comparison completed successfully.
+---------------------------------------------------------------------------------------------Date: 16-06-2026
+
+Tasks Completed:
+- Installed SHAP environment
+- Trained XGBoost model
+- Performed feature importance analysis
+- Identified top churn-driving features
+- Added business insights
+
+Results:
+- Logistic Regression Accuracy: 79.99%
+- Random Forest Accuracy: 79.70%
+- XGBoost Accuracy: 78.71%
+
+Top Features:
+1. Internet Service (Fiber Optic)
+2. Contract Type
+3. Dependents
+4. Tenure
+5. Payment Method
+
+Status:
+Week 2 completed successfully.
