@@ -12,3 +12,5 @@ psycopg2-binary
 jupyter
 plotly
 streamlit
+python-dotenv
+requests
